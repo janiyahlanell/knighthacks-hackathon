@@ -36,6 +36,10 @@ We have decided to do an all-in-one productivity application for our prototype.
 we anticipate it will give us a good foundation of code to use during the challenges of
 the Hackathon.
 
+++ Things To Know
+
+   - our repository must be made after they say "Go"
+
 
 ++ Web Application Features ++
 
@@ -86,6 +90,7 @@ Hosting
 
    Backend: Railway / Render / Fly.io.
 
-   ++ 
+
+
 
 
