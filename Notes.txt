@@ -29,7 +29,9 @@ idea)
 
 (09/02/25)
 
-
+We have decided to do an all-in-one productivity application for our prototype.
+we anticipate it will give us a ood foundation of code to use during the challenges of
+the Hackathon 
 
 
 
