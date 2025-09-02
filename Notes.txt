@@ -8,7 +8,7 @@
 - playlist maker
    >sad 
    >happy
-   mod based / media based playlist provider 
+   mood based / media based playlist provider 
 
 - playlist reviewer 
 
@@ -23,16 +23,52 @@ idea)
    - blast innapropriate noises if you look at your phone
    - autogenerate media during pomodoro break 
 - study app that provides different ways to study your topics 
+- reward system for a certainamount of streaks of pomodor cycles you do without the alarm balring
 
 
 - a blog (anime, games, cutesy, etc)
+
+
 
 (09/02/25)
 
 We have decided to do an all-in-one productivity application for our prototype.
 we anticipate it will give us a ood foundation of code to use during the challenges of
-the Hackathon 
+the Hackathon.
 
 
+
+++ Anticipated Tech Stack ++
+Frontend
+
+React + TailwindCSS → clean, fast UI.
+
+TensorFlow.js / MediaPipe → in-browser detection (eye tracking, phone-in-hand, posture).
+
+Backend
+
+Node.js + Express (or FastAPI in Python) → handles API calls, user data, break recs.
+
+Supabase / Firebase → quick auth, database, and hosting if you want less setup.
+
+AI/ML
+
+Computer Vision: TensorFlow.js or PyTorch (if server-based) for “phone detection.”
+
+Recommendation AI: Use OpenAI API or Hugging Face to curate break content or suggest playlists based on mood/history.
+
+APIs
+
+Spotify API → mood playlists & lofi toggle.
+
+YouTube API → break videos.
+
+OpenAI API → optional AI coach/recommender.
+
+Hosting
+
+Frontend: Vercel / Netlify.
+
+Backend: Railway / Render / Fly.io.
 
 
