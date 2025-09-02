@@ -8,8 +8,12 @@
 - playlist maker
    >sad 
    >happy
+   mod based / media based playlist provider 
+
 - playlist reviewer 
+
 - horror game 
+
 - Productivity Pomodoro
 
 - study app that detects if youre
@@ -17,6 +21,16 @@ on your phone and starts like blaring or something
 (could be implemented into the productivity app
 idea) 
    - blast innapropriate noises if you look at your phone
-
+   - autogenerate media during pomodoro break 
 - study app that provides different ways to study your topics 
+
+
 - a blog (anime, games, cutesy, etc)
+
+(09/02/25)
+
+
+
+
+
+
