@@ -8,3 +8,10 @@
 - playlist maker
    >sad 
    >happy
+- playlist reviewer 
+- horror game 
+- Productivity Pomodoro
+- study app that detects if youre
+on your phone and starts like blaring or something 
+(could be implemented into the productivity app
+idea)
