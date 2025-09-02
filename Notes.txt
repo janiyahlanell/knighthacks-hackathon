@@ -33,42 +33,59 @@ idea)
 (09/02/25)
 
 We have decided to do an all-in-one productivity application for our prototype.
-we anticipate it will give us a ood foundation of code to use during the challenges of
+we anticipate it will give us a good foundation of code to use during the challenges of
 the Hackathon.
+
+
+++ Web Application Features ++
+
+- Pomodoro feature 
+   *rewadrd system for completing a certain amount of pomodoro cycles
+   * Punishment for looking at your phone (maybe detecting it via bluetooth?) 
+      alarm system?
+   *Auto generate media during your break 
+
+-  mood / media based study playlist (lofi inclusive)
+
+- Quizzed study methods
+
 
 
 
 ++ Anticipated Tech Stack ++
+
 Frontend
 
-React + TailwindCSS → clean, fast UI.
+   React + TailwindCSS → clean, fast UI.
 
-TensorFlow.js / MediaPipe → in-browser detection (eye tracking, phone-in-hand, posture).
+   TensorFlow.js / MediaPipe → in-browser detection (eye tracking, phone-in-hand, posture).
 
-Backend
+   Backend
 
-Node.js + Express (or FastAPI in Python) → handles API calls, user data, break recs.
+   Node.js + Express (or FastAPI in Python) → handles API calls, user data, break recs.
 
-Supabase / Firebase → quick auth, database, and hosting if you want less setup.
+   Supabase / Firebase → quick auth, database, and hosting if you want less setup.
 
 AI/ML
 
-Computer Vision: TensorFlow.js or PyTorch (if server-based) for “phone detection.”
+   Computer Vision: TensorFlow.js or PyTorch (if server-based) for “phone detection.”
 
-Recommendation AI: Use OpenAI API or Hugging Face to curate break content or suggest playlists based on mood/history.
+   Recommendation AI: Use OpenAI API or Hugging Face to curate break content or suggest playlists based on mood/history.
 
 APIs
 
-Spotify API → mood playlists & lofi toggle.
+   Spotify API → mood playlists & lofi toggle.
 
-YouTube API → break videos.
+   YouTube API → break videos.
 
-OpenAI API → optional AI coach/recommender.
+   OpenAI API → optional AI coach/recommender.
 
 Hosting
 
-Frontend: Vercel / Netlify.
+   Frontend: Vercel / Netlify.
 
-Backend: Railway / Render / Fly.io.
+   Backend: Railway / Render / Fly.io.
+
+   ++ 
 
 
