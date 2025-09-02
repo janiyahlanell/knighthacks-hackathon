@@ -11,7 +11,12 @@
 - playlist reviewer 
 - horror game 
 - Productivity Pomodoro
+
 - study app that detects if youre
 on your phone and starts like blaring or something 
 (could be implemented into the productivity app
-idea)
+idea) 
+   - blast innapropriate noises if you look at your phone
+
+- study app that provides different ways to study your topics 
+- a blog (anime, games, cutesy, etc)
