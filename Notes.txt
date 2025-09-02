@@ -53,6 +53,8 @@ the Hackathon.
 
 - Quizzed study methods
 
+- Light / Dark Mode 
+
 
 
 
